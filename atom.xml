@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://horemast.github.io</id>
+    <title>筱梦的随笔</title>
+    <updated>2026-08-30T15:33:53.165Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://horemast.github.io"/>
+    <link rel="self" href="https://horemast.github.io/atom.xml"/>
+    <subtitle>If you shed tears when you miss the sun, you also miss the stars.</subtitle>
+    <logo>https://horemast.github.io/images/avatar.png</logo>
+    <icon>https://horemast.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, 筱梦的随笔</rights>
+    <entry>
+        <title type="html"><![CDATA[自备影视资源]]></title>
+        <id>https://horemast.github.io/post/zi-bei-ying-shi-zi-yuan/</id>
+        <link href="https://horemast.github.io/post/zi-bei-ying-shi-zi-yuan/">
+        </link>
+        <updated>2026-02-05T08:45:03.000Z</updated>
+        <content type="html"><![CDATA[<p>看电视剧网站<br>
+free OK：https://www.freeok.mobi/  备用 https://www.freeok.xyz/</p>
+<p>魔都资源： https://www.moduzy.cc 备用 moduzy1.com 至 moduzy10.com</p>
+<p>iqiyi资源：主域名：iqiyizy.com（如果无法访问可尝试加上www进行访问）<br>
+备用域名：iqiyizy.com | iqiyizy.cc | iqiyizy.vip | iqiyizy1.com - iqiyizy9.com</p>
+<p>影猫の仓库：https://www.ymck.pro  发布页 https://www.ymck.vip/</p>
+<p>4k资源下载 https://4kzn.com/<br>
+人人影视 https://yyets.click/<br>
+网盘影视仓：https://www.kdocs.cn/l/cc9Z30GHXwni</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梯子下载链接（自备）]]></title>
+        <id>https://horemast.github.io/post/ti-zi-xia-zai-lian-jie-zi-bei/</id>
+        <link href="https://horemast.github.io/post/ti-zi-xia-zai-lian-jie-zi-bei/">
+        </link>
+        <updated>2025-12-15T16:28:11.000Z</updated>
+        <content type="html"><![CDATA[<p>😽GitHub文件下载加速：https://git.310105.xyz<br>
+筱梦搭建的不死节点（部分情况下需要网络优选，可参考教程https://cf.310105.xyz/）：https://ebvcuashb101.pages.dev/86c50e3a-5b87-49dd-bd20-03c7f2735e40/pty<br>
+筱梦自建自带优选节点2：https://bp.sub.cmliussss.net/sub?host=bqwi113yr.sylu.net<br>
+ikuuu免费机场（需自行注册）https://ikuuu.co/<br>
+免费节点：https://clashgithub.com/<br>
+👑如果在使用hiddify客户端时候发现连接不上可以这样操作试试看：左侧栏 配置-TLS特性（实验性选项）-启用TLS数据分段</p>
+<p><strong>以下内容为hiddify相关内容</strong><br>
+😇Windows客户端<br>
+Hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.Msix<br>
+Clash.verge：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.2/Clash.Verge_2.4.2_x64-setup.exe<br>
+😋Android客户端<br>
+Hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk<br>
+🤗ios客户端<br>
+Hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-iOS.ipa<br>
+👉您可自行注册外区ID，也可将现有的国区ID修改为其他国家或地区来下载使用。👈<br>
+注意如果使用共享ID（提供地址：https://idshare001.me/），请仅在app store内登录，不要在手机设置处登录，否则出现任何问题，后果自负！<br>
+直达hiddify页面下载：https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532<br>
+直达karing页面下载（也可搜索关键词：karing vpn）：https://apps.apple.com/us/app/karing/id6472431552<br>
+您必须拥有有效的订阅才可以查看该区域的内容<br>
+😜MAC客户端 macOS (v10.15+)<br>
+Hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS.dmg<br>
+Hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS-Installer.pkg<br>
+✊Mac 系统常见问题<br>
+Q: 提示无法验证开发者或损坏，无法运行。<br>
+A: 请打开系统偏好设置 → 安全性与隐私 → 点击左下角小锁并输入密码解锁。然后在已阻止应用处选择“仍然打开”即可，后续不会再提示。<br>
+🤠linux客户端 Linux-x64<br>
+hiddify：https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage</p>
+<p><strong>接下来为v2rayNG的相关内容</strong><br>
+v2rayN 代理软件下载<br>
+事先声明<br>
+在各种客户端请勿根据延迟数字，判断连通性及速度快慢。特别是使用 Clash 内核客户端，有时候会显示 Timeout，但并不代表节点不可用。请实际测试，或进行 Tcpping 查看真链接延迟，如在 v2ray 客户端启用节点只要在 “当前服务的真连接延迟” 不出现 -1 都代表节点可用。如在 Clash 内核客户端，请实际启用节点进行测试。在实际测试中发现 v2ray 系列客户端速度更优于 Clash 内核客户端，首选使用 v2rayN、 v2rayNG、Shadowrocket<br>
+<strong>Android</strong>:<br>
+<strong>v2rayNG for Android</strong>	<br>
+https://github.com/2dust/v2rayNG/releases/download/1.10.31/v2rayNG_1.10.31_universal.apk<br>
+<strong>Windows</strong>:<br>
+<strong>v2rayN for Windows</strong>	<br>
+https://github.com/2dust/v2rayN/releases/download/7.16.6/v2rayN-windows-64-desktop.zip<br>
+<strong>Mac</strong>:<br>
+<strong>v2rayN for MacOS</strong><br>
+https://github.com/2dust/v2rayN/releases/download/7.16.6/v2rayN-macos-64.dmg<br>
+https://github.com/2dust/v2rayN/releases/download/7.16.6/v2rayN-macos-arm64.dmg</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辞安的个人主页]]></title>
+        <id>https://horemast.github.io/post/xiao-meng-de-ge-ren-zhu-ye/</id>
+        <link href="https://horemast.github.io/post/xiao-meng-de-ge-ren-zhu-ye/">
+        </link>
+        <updated>2025-12-15T16:27:22.000Z</updated>
+        <content type="html"><![CDATA[<p>里面包含了很多很有意思的网站😏、<br>
+dockerhub镜像，学术镜像，影视站等<br>
+已套上cdn，推荐关闭梯子，食用体验更加<br>
+点击访问：https://310105.xyz</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://horemast.github.io/post/about/</id>
+        <link href="https://horemast.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>辞安的随笔💃，请多多指教</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>🎅是我，辞安 又名：筱梦</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>羽毛球，咖啡，茶艺，酒店热爱者👔</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>👏QQ：2033088271</p>
+<h2 id="telegramhttpstmeazureap">👁Telegram:https://t.me/azureap</h2>
+]]></content>
+    </entry>
+</feed>
